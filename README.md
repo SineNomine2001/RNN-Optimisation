@@ -1,3 +1,3 @@
 # RNN-Optimisation
 
-Pre-trained with glove and runs over yelp2013, yelp2014, yelp2015 datasets.
+Pre-trained with glove.6B.200d and runs over yelp_2013, yelp_2014, yelp_2015 datasets.
